@@ -24,6 +24,10 @@ The is the first Touhou based I've watched, I've even thought it is Touhou, well
 
 One of my favourite character is **Saigyouji Yuyuko**, please don't judge me
 
+### Favourite games
+
+I don't play games a lot, just sometimes, but my favourite is **Touhou Project**, **Minecraft** and **Counter Strike** (I am bad at this)
+
 ## Bad Apple!! time ᗜˬᗜ
 ![Demo](https://i.imgur.com/tde5nE8.gif)
 
