@@ -1,7 +1,4 @@
 
-# Bad Apple!! time ᗜˬᗜ
-![Demo](https://i.imgur.com/tde5nE8.gif)
-
 # About me
 Hey! Welcome to my profile! I am a person who loves Touhou (of course), coding and doing some new stuffs
 
@@ -20,3 +17,11 @@ Not the first Touhou based anime that I've watched but this is definitely a good
 ![Demo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlbEQjW41li4%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=4ee4aa925b6258dea5ebb50ab61f3725090a55457c8ef6ccb20d09d70024e6d0)
 
 The is the first Touhou based I've watched, I've even thought it is Touhou, well, Touhou is a game not an anime. This is also a great one
+
+## Favourite character
+
+One of my favourite character is **Saigyouji Yuyuko**, please don't judge me
+
+# Bad Apple!! time ᗜˬᗜ
+![Demo](https://i.imgur.com/tde5nE8.gif)
+
