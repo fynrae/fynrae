@@ -2,11 +2,11 @@
 # Greetings!
 
 ## About me
-Hey! Welcome to my profile! I am a person who loves Touhou (of course), coding and doing some new stuffs
 
-I often use C++, Python and Java for most of my project
-
-I rarely watched any anime but here's one of my favourite:
+- Hey! Welcome to my profile! I am a person who loves **Touhou** (of course), **coding** and doing some **new stuffs**
+- I often use **C++**, **Python** and **Java** for most of my project
+- I love contributing my works to the public, helping other peoples
+- I rarely watched any anime but here's one of my favourite:
 
 ### Musou Kakyou: A Summer Day's Dream (夢想夏郷 A Summer Day's Dream, "Fantasy Summer Land")
 
